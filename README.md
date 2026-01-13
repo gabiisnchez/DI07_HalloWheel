@@ -11,7 +11,7 @@ Este repositorio contiene los archivos resultantes de la tarea práctica "Desarr
 A continuación se detallan los archivos principales y su correspondencia con los requisitos de la tarea:
 
 ### 1. Instalador Final (Entregable Principal)
-*   **Archivo:** `HalloWheel_installer.exe`
+*   **Archivo:** `hallowheel_installer.exe`
 *   **Función:** Es el producto final para el usuario. Al ejecutarlo, inicia un asistente que instala la aplicación, copia los archivos necesarios (incluyendo el JRE), crea accesos directos en el Escritorio y Menú Inicio, y registra el desinstalador en el sistema.
 
 ### 2. Ejecutable Nativo
@@ -34,7 +34,6 @@ A continuación se detallan los archivos principales y su correspondencia con lo
 
 ### 5. Recursos y Configuración (`/resources`)
 Carpeta con los assets necesarios para la creación del instalador:
-*   `hallowheel_setup_script.iss`: Script de **Inno Setup** utilizado para compilar el instalador.
 *   `config.xml`: Archivo de configuración de Launch4j.
 *   `license.txt`, `readme_before.txt`, `readme_final.txt`: Archivos de texto mostrados durante la instalación.
 *   `*.ico`: Iconos utilizados para el ejecutable y el instalador.
