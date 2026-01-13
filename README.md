@@ -50,7 +50,5 @@ El flujo de trabajo seguido para completar la tarea ha sido:
 
 ## 👤 Autor
 **Gabriel Sánchez Heredia**
-Desarrollo de Interfaces
-
 ---
 *Proyecto realizado con fines educativos para el ciclo de Desarrollo de Aplicaciones Multiplataforma.*
